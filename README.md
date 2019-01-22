@@ -6,10 +6,8 @@
 <table align="center" border="0">
 
 <tr>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/2.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/3.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/4.JPG"> </td>
-<td> <img src="https://raw.githubusercontent.com/ThompsonRita222/RecordLifeBill/master/img/5.JPG"> </td>
+<td> <img src="https://raw.githubusercontent.com/HonorioDas/ADBlank/master/1.png"> </td>
+<td> <img src="https://raw.githubusercontent.com/HonorioDas/ADBlank/master/2.png"> </td>
 </tr>
 
 <tr>
